@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b57fabfa-453c-45fb-b837-53b3785a9e93" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.estoty-test-survivors-v5-vla/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.estoty-test-survivors-v5-vla/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.estoty-test-survivors-v5-vla/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.estoty-test-survivors-v5-vla/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Gameplay/Movement/Behaviours/RigidbodyMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Gameplay/Movement/Behaviours/RigidbodyMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;krone128&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/krone128/estoty-test-survivors-v5-vla.git&quot;,
+    &quot;accountId&quot;: &quot;cd745da3-7f05-4201-b7ad-799ad2d24d19&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/adfa75b7fdea4c89aab53d9b8e810d501f5000/3a/2d1b9a1c/Camera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/3ea01e77be99618395f448b16bd7cc2bd4248bd9e5d8474964b2d97f39c5d74/System.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/d44b17e136d09081da1e8fd0e8c83fde60e11818b9f2442d7ed8cb733fae895e/System.Collections.Generic.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/krone/Work/estoty-test-survivors-v5-vla/Assets/Code/Gameplay/Movement/Behaviours/RigidbodyMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Gameplay/PlayerLevelUp/PlayerUpgrade/Behaviour/PlayerUpgradeManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Gameplay/PlayerLevelUp/PlayerUpgrade/Config/PlayerStatUpgradeConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Gameplay/PlayerLevelUp/PlayerUpgrade/IPlayerUpgrade.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Gameplay/PlayerLevelUp/PlayerUpgrade/PlayerUpgrade.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Gameplay/Projectiles/Behaviours/ProjectileHitBounceDispatcher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Gameplay/Projectiles/Behaviours/ProjectileHitDispatcherBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Gameplay/Projectiles/Behaviours/ProjectileHitPiercingDispatcher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/krone/Work/estoty-test-survivors-v5-vla/Assets/Plugins/Zenject/package.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/krone/Work/estoty-test-survivors-v5-vla/Assets/Plugins/Zenject/package.json.meta" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/Bee/TundraBuildState.state.map" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/krone/Work/estoty-test-survivors-v5-vla/Packages/manifest.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/krone/Work/estoty-test-survivors-v5-vla/ProjectSettings/ProjectSettings.asset" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2x21Lbe6vhMrOhq36koxTAbBDLm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Attach to Unity Editor.Attach to Unity Editor.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="/Applications/Unity/Hub/Editor/6000.2.0b2/Unity.app/Contents/MacOS/Unity" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath $PROJECT_DIR$ -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="/Applications/Unity/Hub/Editor/6000.2.0b2/Unity.app/Contents/MacOS/Unity" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath $PROJECT_DIR$ -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="useMixedMode" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="useMixedMode" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b57fabfa-453c-45fb-b837-53b3785a9e93" name="Changes" comment="" />
+      <created>1747121300166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747121300166</updated>
+      <workItem from="1747121301939" duration="91797000" />
+      <workItem from="1749051376911" duration="3238000" />
+      <workItem from="1749231019184" duration="7136000" />
+      <workItem from="1749567524865" duration="673000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add skeleton and boss enemy types">
+      <option name="closed" value="true" />
+      <created>1747127116110</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747127116110</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add draft difficulty service">
+      <option name="closed" value="true" />
+      <created>1747133637758</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747133637758</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add experience and leveling system">
+      <option name="closed" value="true" />
+      <created>1747138763294</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747138763294</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add player upgrade system, upgrade configs, level up window UI">
+      <option name="closed" value="true" />
+      <created>1747218931107</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747218931107</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add projectile bounce and piercing upgrades">
+      <option name="closed" value="true" />
+      <created>1747230172706</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747230172706</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add orbital player upgrade">
+      <option name="closed" value="true" />
+      <created>1747286372556</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747286372556</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Move Difficulty to config">
+      <option name="closed" value="true" />
+      <created>1747286393422</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1747286393422</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Clean up unused">
+      <option name="closed" value="true" />
+      <created>1747286425440</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1747286425440</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add modified stat to inspector">
+      <option name="closed" value="true" />
+      <created>1747286442189</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1747286442189</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add gun stat upgrade type">
+      <option name="closed" value="true" />
+      <created>1747288894678</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1747288894678</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Handle upgrades when available count is less than selection range">
+      <option name="closed" value="true" />
+      <created>1747293184556</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1747293184556</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add enemy spawner config, add spawn chance for enemy types">
+      <option name="closed" value="true" />
+      <created>1747297151677</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1747297151677</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Tweak configs">
+      <option name="closed" value="true" />
+      <created>1747297231777</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1747297231777</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Rename difficulty variables">
+      <option name="closed" value="true" />
+      <created>1747302850713</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1747302850713</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Tweak configs">
+      <option name="closed" value="true" />
+      <created>1747302866784</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1747302866784</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Cleanup code">
+      <option name="closed" value="true" />
+      <created>1747306392883</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1747306392883</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Cleanup">
+      <option name="closed" value="true" />
+      <created>1747306437287</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1747306437287</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Move PlayerUpgradeController to component">
+      <option name="closed" value="true" />
+      <created>1747307900005</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1747307900005</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Remove redundant usings">
+      <option name="closed" value="true" />
+      <created>1747308351530</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1747308351530</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Fix namespaces and file structure">
+      <option name="closed" value="true" />
+      <created>1747309003820</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1747309003820</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Remove unused class">
+      <option name="closed" value="true" />
+      <created>1747313366117</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1747313366117</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="60" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="50" />
+                  <entry key="Table.Default.Hash.ColumnIdWidth" value="40" />
+                  <entry key="Table.GitHub.CommitStatus.ColumnIdWidth" value="41" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Add skeleton and boss enemy types" />
+    <MESSAGE value="Add draft difficulty service" />
+    <MESSAGE value="Add experience and leveling system" />
+    <MESSAGE value="Add player upgrade system, upgrade configs, level up window UI" />
+    <MESSAGE value="Add projectile bounce and piercing upgrades" />
+    <MESSAGE value="Add orbital player upgrade" />
+    <MESSAGE value="Move Difficulty to config" />
+    <MESSAGE value="Clean up unused" />
+    <MESSAGE value="Add modified stat to inspector" />
+    <MESSAGE value="Add gun stat upgrade type" />
+    <MESSAGE value="Handle upgrades when available count is less than selection range" />
+    <MESSAGE value="Add enemy spawner config, add spawn chance for enemy types" />
+    <MESSAGE value="Rename difficulty variables" />
+    <MESSAGE value="Tweak configs" />
+    <MESSAGE value="Cleanup code" />
+    <MESSAGE value="Cleanup" />
+    <MESSAGE value="Move PlayerUpgradeController to component" />
+    <MESSAGE value="Remove redundant usings" />
+    <MESSAGE value="Fix namespaces and file structure" />
+    <MESSAGE value="Remove unused class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove unused class" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Code/Gameplay/PlayerLevelUp/PlayerUpgrade/GunStatUpgrade.cs</url>
+          <line>28</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Code/Gameplay/PlayerLevelUp/PlayerUpgrade/Impl/GunStatUpgrade.cs" containingFunctionPresentation="Method 'ApplyToTarget'">
+            <startOffsets>
+              <option value="964" />
+            </startOffsets>
+            <endOffsets>
+              <option value="965" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="32" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="33" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="34" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Type#Code.Gameplay.Identification.Behaviours.Id" memberName="Value" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>

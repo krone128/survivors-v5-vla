@@ -1,0 +1,14 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- Stick to project's code style and architecture
+- If adding comments, use existing comments style
+- Can update code only if changes are related to assigned task
+- Do not, under any cicumstances, change code that is out of current task scope
+- Suggest improvements related to completed task, and other important ideas, in a numbered list
+- Do not add listed improvements in code unless requested to do so
+- Do not add test code, suggest to add it instead.
+- Use green checkmark emoji and red x emoji in your output to mark executed steps as succeede or failed
+- Output short message for every mcp tool usage with its result

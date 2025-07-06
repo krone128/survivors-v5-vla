@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+- for editing a Prefab, use Prefab_Open to open a prefab, add requested modifications, use Prefab_Save
+
+- for creating scriptable object instance, use Reflection_MethodCall tool and call ScriptableObject.CreateInstane passing full type name argument

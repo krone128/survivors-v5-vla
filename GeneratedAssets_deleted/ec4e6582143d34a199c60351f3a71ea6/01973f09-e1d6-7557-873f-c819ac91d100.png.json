@@ -1,0 +1,19 @@
+{
+    "asset": "ec4e6582143d34a199c60351f3a71ea6",
+    "fileName": "01973f09-e1d6-7557-873f-c819ac91d100.png",
+    "prompt": "Cyberpunk warrior character, generate spritesheet with standing and running animation",
+    "negativePrompt": "",
+    "model": "c65c79a0-b2af-46da-a8e5-2fc106ec2ab6",
+    "customSeed": -1,
+    "w3CTraceId": "e6cda3c84d06ea31cd5f9242f7091e9a",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

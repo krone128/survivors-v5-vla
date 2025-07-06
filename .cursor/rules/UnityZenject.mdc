@@ -1,0 +1,8 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+- Acknowledge: this project uses Zenject for Unity
+- Stick to best practices in working with Dependency Injection frameworks
